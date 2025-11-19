@@ -82,8 +82,3 @@ with open("preproinsulin-seq.txt", "r") as file:
 #         file.write(kata)
 #     print(f"Berhasil disimpan dan panjang karakter : {len(kata)} ")
 #     print("")
- 
- 
-   
- 
-   
