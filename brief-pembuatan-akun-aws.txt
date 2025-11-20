@@ -1,0 +1,51 @@
+1. Karena lab devops itu isinya cuma essay, maka kurang practical. 
+Sehingga saya (zauvik) offer extra lab mandiri ke teman2.
+2. Karena sifatnya offering, maka ini tidak wajib!
+
+3. Pembuatan akun AWS, intinya memerlukan CC/VCC. Tidak boleh pakai CC beneran!
+- Cara Gratis
+  Cons:
+  - Agak ribet, ada resiko tagihan
+  
+  Pros:
+  - Totally free
+  - 
+  
+  Untuk buat vcc + AWS:
+  - Buat akun jenius atau
+  - Buat akun jago
+  - Top up 25.000 ke akun jenius/jago -> konversi ke vcc
+  - Registrasi VCC ke AWS.
+  - AWS akan memverifikasi keaslian vcc dengan menarik 1$ dari saldo
+  - Setelah berhasil verifikasi, AWS mengembalikan dananya teman2 ke vcc.
+  - Bagi akun baru, akan mendapat AWS credit sebanyak $200 dengan masa aktif 6 bulan
+  - Selanjutnya teman2 bisa menarik dananya kembali
+  
+
+
+- Cara berbayar
+  Cons:
+  - Keluar modal (sedikit)
+  - Saya (zauvik) secara official bagian dari AWS, saya tidak menganjurkan cara ini. Ilegal
+  
+  Prons:
+  - Mudah sekali, dan tidak ada resiko tagihan sama sekali
+  
+  Untuk buat vcc + AWS:
+  - Temen2 search di shopee, cari vcc yang bisa di top up (harus support visa)
+  - Minta ke penjual untuk top up 25.000
+  - Registrasi VCC ke AWS.
+  - AWS akan memverifikasi keaslian vcc dengan menarik 1$ dari saldo
+  - Setelah berhasil verifikasi, AWS mengembalikan dananya teman2 ke vcc.
+  - Bagi akun baru, akan mendapat AWS credit sebanyak $200 dengan masa aktif 6 bulan
+  - Selanjutnya teman2 bisa menarik dananya kembali
+  
+  
+ Untuk besok, teman2 siap sipkan vcc nya, registernya bisa bareng2
+ 
+ yang pelu disiapkan
+ - VCC number
+ - CVV number
+ - expiration date dari VCC
+  
+ 
